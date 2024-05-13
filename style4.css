@@ -1,0 +1,116 @@
+*
+{
+	margin : 0;
+	padding : 0;
+}
+
+body
+{
+	background-image:url(images/bg4.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+body
+{
+	margin : 5%;
+	font-family: "Arial", sans-sarif;
+	font-size: 14px;
+	line-height: 1.6;
+	padding-right : 180px;
+}
+
+.container
+{
+	background:rgba(255,255,255,.5);
+	border-radius: 5px;	
+	padding : 50px;
+	position : relative;
+	left : 80px;
+}
+
+.container2
+{
+	background:rgba(255,255,255,.5);
+	border-radius: 5px;	
+	width : 30%;
+	padding : 30px;
+}
+
+
+.aisyah img
+{
+	position : relative;
+	width : 30%;
+	left : 320px;
+	bottom : 570px;
+	
+}
+
+.container3
+{
+	background:rgba(255,255,255,.5);
+	border-radius: 5px;	
+	width : 30%;
+	padding : 30px;
+	position : relative;
+	left : 645px;
+	bottom : 270px;
+}
+
+.nab img
+{
+	position : relative;
+	width : 30%;
+	left : 661px;
+	bottom : 570px;
+	
+}
+
+
+.line-1 
+{
+  height: 12px;
+  background: white;
+  width : 1592px;
+  position : relative;
+  right : 30%;
+  bottom : 240px;
+}
+
+.button
+{
+	margin: 0;
+	position: absolute;
+	top: 140%;
+	right: 43%;
+	-ms-transform: translate(-70%, -40%);
+	transform: translate (-70%, -40%);
+	transition: all 0.5s;
+}
+
+.btn
+{
+	border: 3px solid #df80ff;
+	padding: 20px 40px;
+	color: black;
+	text-decoration: none;
+	margin-right: 5px;
+	font-size: 13px;
+	border-radius: 12px;
+	background-color: #f5f5f0;
+	box-shadow: 0px 5px 5px 3px #ffe6e6;
+	transition: 0.5s;
+}
+
+.btn-three:hover
+{
+	background-color: #ff4d4d;
+	padding-left: 25px;
+}
+
+.btn-three
+{
+	font-family: "Verdana", sans-sarif;
+}
